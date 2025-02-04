@@ -16,7 +16,7 @@ This repository is to help understand various ml algorithms by detailed examples
 4. Sparse Representation-based classification (SRC)
 
 ### Instance-based Algorithms
-1. k-Nearest Neighbor (kNN)
+1. **k-Nearest Neighbor (kNN)**
 2. Learning Vector Quantization (LVQ)
 
 ### Regularization Algorithms
