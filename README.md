@@ -29,7 +29,7 @@ This repository is to help understand various ml algorithms by detailed examples
 2. Gaussian Naive Bayes
 
 ### Clustering Algorithms
-1. k-Means Clustering
+1. **k-Means Clustering**
 2. k-Medians Clustering
 3. Expectation Maximization (EM)
 
